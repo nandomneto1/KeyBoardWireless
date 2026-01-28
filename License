@@ -1,0 +1,18 @@
+Copyright (c) 2026 Fernando Machado Neto
+All rights reserved.
+
+This repository distributes only the compiled firmware file (.uf2) for the keyboard
+project developed by the author. The source code is not public and remains the
+exclusive property of the author.
+
+Permissions:
+- Personal use of the .uf2 file.
+
+Restrictions:
+- It is prohibited to copy, modify, reverse engineer, decompile, or redistribute
+  the firmware, in whole or in part, without explicit permission from the author.
+- Commercial use of this firmware or any derivative work is prohibited without
+  written authorization from the author.
+
+No warranties are provided. The firmware is supplied “as is,” and the user assumes
+all responsibility for its use.
